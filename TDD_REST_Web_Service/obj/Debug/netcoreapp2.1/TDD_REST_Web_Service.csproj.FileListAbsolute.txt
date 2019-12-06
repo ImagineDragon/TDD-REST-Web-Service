@@ -1,0 +1,13 @@
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\bin\Debug\netcoreapp2.1\TDD_REST_Web_Service.deps.json
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\bin\Debug\netcoreapp2.1\TDD_REST_Web_Service.runtimeconfig.json
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\bin\Debug\netcoreapp2.1\TDD_REST_Web_Service.runtimeconfig.dev.json
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\bin\Debug\netcoreapp2.1\TDD_REST_Web_Service.dll
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\bin\Debug\netcoreapp2.1\TDD_REST_Web_Service.pdb
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.csproj.CoreCompileInputs.cache
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.RazorAssemblyInfo.cache
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.RazorAssemblyInfo.cs
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.AssemblyInfoInputs.cache
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.AssemblyInfo.cs
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.RazorTargetAssemblyInfo.cache
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.dll
+D:\TDD_REST_Web_Service\TDD_REST_Web_Service\obj\Debug\netcoreapp2.1\TDD_REST_Web_Service.pdb
